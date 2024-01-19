@@ -1,0 +1,52 @@
+[debug] [2024-01-19T18:55:16.222Z] ----------------------------------------------------------------------
+[debug] [2024-01-19T18:55:16.224Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Jaden\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-19T18:55:16.224Z] CLI Version:   13.0.3
+[debug] [2024-01-19T18:55:16.225Z] Platform:      win32
+[debug] [2024-01-19T18:55:16.225Z] Node Version:  v18.16.0
+[debug] [2024-01-19T18:55:16.226Z] Time:          Fri Jan 19 2024 11:55:16 GMT-0700 (Mountain Standard Time)
+[debug] [2024-01-19T18:55:16.226Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-19T18:55:16.229Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-01-19T18:55:16.279Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-19T18:55:16.279Z] > authorizing via signed-in user (jadendficklin@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Jaden\Desktop\video-upload
+
+[debug] [2024-01-19T18:55:16.513Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2024-01-19T18:55:16.513Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2024-01-19T18:56:02.795Z] ----------------------------------------------------------------------
+[debug] [2024-01-19T18:56:02.797Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Jaden\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-19T18:56:02.798Z] CLI Version:   13.0.3
+[debug] [2024-01-19T18:56:02.798Z] Platform:      win32
+[debug] [2024-01-19T18:56:02.798Z] Node Version:  v18.16.0
+[debug] [2024-01-19T18:56:02.800Z] Time:          Fri Jan 19 2024 11:56:02 GMT-0700 (Mountain Standard Time)
+[debug] [2024-01-19T18:56:02.800Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-19T18:56:02.807Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-19T18:56:02.808Z] > authorizing via signed-in user (jadendficklin@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Jaden\Desktop\video-upload
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
