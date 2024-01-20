@@ -35,7 +35,7 @@ function Form() {
       </div>
       <div className="w-full">
         <input
-          type="text"
+          type="url"
           placeholder="url for video"
           className="pl-1 border "
           onChange={(e) => setUrl(e.target.value)}
